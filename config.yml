@@ -57,7 +57,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Bluebook - IITG"
-  author: Created by Avinav Yadav
+  author: Created by Prakhar P & Avinav Y
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -92,9 +92,9 @@ params:
   homeInfoParams:
     Title: "Bluebook-IITG"
     Content: >
-      - Welcome to the bluebook of IITG made by Team CCD!
+      - Welcome to the bluebook of IITG,created by Team CCD!
 
-      - **Bluebook** is designed to compile the previous year interview experiences to help you prepare better for your placement interviews and assesments.
+      - **Bluebook** is designed to compile previous year interview experiences to help you better prepare for your placement interviews and assessments.
 
       - Click on the link below to fill in your response.
 
