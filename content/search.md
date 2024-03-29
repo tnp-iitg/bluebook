@@ -1,5 +1,5 @@
 ---
 title: "Search"
-placeholder: Search the bluebook with company/profile/user name ...
+placeholder: Search the bluebook with company/profile/student name ...
 layout: "search"
 ---
