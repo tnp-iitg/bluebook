@@ -6,7 +6,9 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/8/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook/responses/bluebook/23/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/37/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/25/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/4/</loc>
   </url><url>
@@ -14,27 +16,59 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/12/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/40/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/17/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook/responses/bluebook/25/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/44/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/43/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/27/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/28/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/41/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/9/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/38/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/35/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/33/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/34/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/36/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/10/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/14/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook/responses/bluebook/24/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/39/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/26/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/31/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/30/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/42/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/5/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/16/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/24/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/22/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/23/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/21/</loc>
   </url><url>
@@ -42,7 +76,11 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/responses/bluebook/15/</loc>
   </url><url>
-    <loc>http://localhost:1313/bluebook/responses/bluebook/26/</loc>
+    <loc>http://localhost:1313/bluebook/responses/bluebook/29/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/akasa-air/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/akasa-airlines/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/profiles/analyst/</loc>
   </url><url>
@@ -51,6 +89,8 @@
     <loc>http://localhost:1313/bluebook/archives.fr/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/auronova-consulting/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/axtria/</loc>
   </url><url>
@@ -74,6 +114,12 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/consulting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/dashtoon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/databricks/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/profiles/electrical-core/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/exide-energy-solution-limited/</loc>
@@ -82,13 +128,23 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/profiles/hardware/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/companies/hilabs/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/companies/hpcl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/infurnia/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/inito/samplytics-mechanical/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/intel/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/jindal-stainless-ltd/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/juniper-networks/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/larsen--toubro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/profiles/markets/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/profiles/mechanical-core/</loc>
   </url><url>
@@ -112,11 +168,17 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/profiles/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/companies/publicis-sapient/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/companies/qualcomm/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/raspa-pharma/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/companies/reliance-industry-limited-ril/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/responses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/sap-labs/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/profiles/sde/</loc>
   </url><url>
@@ -126,11 +188,19 @@
   </url><url>
     <loc>http://localhost:1313/bluebook/series/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/companies/sprinkler-ds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/sprinklr/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/profiles/systems-engineer/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/bluebook/companies/tata-1mg/</loc>
+  </url><url>
     <loc>http://localhost:1313/bluebook/profiles/teaching/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bluebook/companies/texas-instruments/</loc>
   </url><url>
     <loc>http://localhost:1313/bluebook/companies/vvf-india/</loc>
   </url>

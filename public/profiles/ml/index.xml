@@ -19,5 +19,12 @@
       <guid>http://localhost:1313/bluebook/responses/bluebook/9/</guid>
       <description>Read about my interview experience at Juniper Networks</description>
     </item>
+    <item>
+      <title>Omkar Ganesh Chaudhari - Sprinkler DS</title>
+      <link>http://localhost:1313/bluebook/responses/bluebook/33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bluebook/responses/bluebook/33/</guid>
+      <description>Read about my interview experience at Sprinkler DS</description>
+    </item>
   </channel>
 </rss>
