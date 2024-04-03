@@ -13,11 +13,25 @@
     <language>en</language>
     <atom:link href="https://tnp-iitg.github.io/bluebook/profiles/mechanical-core/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Daksh Adhar - Inito/Samplytics (Mechanical)</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/40/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/40/</guid>
+      <description>Read about my interview experience at Inito/Samplytics (Mechanical)</description>
+    </item>
+    <item>
       <title>Prasad Shamrao Deshpande - Bajaj Auto Ltd</title>
       <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/2/</guid>
       <description>Read about my interview experience at Bajaj Auto Ltd</description>
+    </item>
+    <item>
+      <title>Rashik Kalita - Reliance Industry Limited (RIL)</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/31/</guid>
+      <description>Read about my interview experience at Reliance Industry Limited (RIL)</description>
     </item>
   </channel>
 </rss>

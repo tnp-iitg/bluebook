@@ -13,10 +13,31 @@
     <language>en</language>
     <atom:link href="https://tnp-iitg.github.io/bluebook/companies/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Akasa Air</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/akasa-air/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/akasa-air/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akasa Airlines</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/akasa-airlines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/akasa-airlines/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>AQR Capital</title>
       <link>https://tnp-iitg.github.io/bluebook/companies/aqr-capital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/companies/aqr-capital/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auronova Consulting</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/auronova-consulting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/auronova-consulting/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +69,20 @@
       <description></description>
     </item>
     <item>
+      <title>Dashtoon</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/dashtoon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/dashtoon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Databricks</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/databricks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/databricks/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Exide Energy solution limited</title>
       <link>https://tnp-iitg.github.io/bluebook/companies/exide-energy-solution-limited/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,10 +97,38 @@
       <description></description>
     </item>
     <item>
+      <title>HiLabs</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/hilabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/hilabs/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>HPCL</title>
       <link>https://tnp-iitg.github.io/bluebook/companies/hpcl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/companies/hpcl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infurnia</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/infurnia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/infurnia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inito/Samplytics (Mechanical)</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/inito/samplytics-mechanical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/inito/samplytics-mechanical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intel</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/intel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/intel/</guid>
       <description></description>
     </item>
     <item>
@@ -132,6 +195,13 @@
       <description></description>
     </item>
     <item>
+      <title>Publicis Sapient</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/publicis-sapient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/publicis-sapient/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Qualcomm</title>
       <link>https://tnp-iitg.github.io/bluebook/companies/qualcomm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +213,48 @@
       <link>https://tnp-iitg.github.io/bluebook/companies/raspa-pharma/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/companies/raspa-pharma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliance Industry Limited (RIL)</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/reliance-industry-limited-ril/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/reliance-industry-limited-ril/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sap Labs</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/sap-labs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/sap-labs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sprinkler DS</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/sprinkler-ds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/sprinkler-ds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sprinklr</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/sprinklr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/sprinklr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tata 1mg</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/tata-1mg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/tata-1mg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texas Instruments</title>
+      <link>https://tnp-iitg.github.io/bluebook/companies/texas-instruments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/companies/texas-instruments/</guid>
       <description></description>
     </item>
     <item>

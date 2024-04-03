@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tata 1mg on Bluebook</title>
+    <link>https://tnp-iitg.github.io/bluebook/companies/tata-1mg/</link>
+    <description>Recent content in Tata 1mg on Bluebook</description>
+    <image>
+      <title>Bluebook</title>
+      <url>https://tnp-iitg.github.io/bluebook/images/papermod-cover.png</url>
+      <link>https://tnp-iitg.github.io/bluebook/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://tnp-iitg.github.io/bluebook/companies/tata-1mg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sahil Nizam - Tata 1mg</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/30/</guid>
+      <description>Read about my interview experience at Tata 1mg</description>
+    </item>
+  </channel>
+</rss>

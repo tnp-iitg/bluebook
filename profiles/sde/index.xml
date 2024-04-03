@@ -13,6 +13,13 @@
     <language>en</language>
     <atom:link href="https://tnp-iitg.github.io/bluebook/profiles/sde/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Amresh Prasad Sinha - Dashtoon</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/37/</guid>
+      <description>Read about my interview experience at Dashtoon</description>
+    </item>
+    <item>
       <title>Debarpan Jana - Netradyne</title>
       <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,11 +27,39 @@
       <description>Read about my interview experience at Netradyne</description>
     </item>
     <item>
-      <title>Dibyendu Dey - Google</title>
-      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/25/</link>
+      <title>Dev Sandip Shah - Infurnia</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/25/</guid>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/44/</guid>
+      <description>Read about my interview experience at Infurnia</description>
+    </item>
+    <item>
+      <title>Dev Sandip Shah - Microsoft</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/43/</guid>
+      <description>Read about my interview experience at Microsoft</description>
+    </item>
+    <item>
+      <title>Dibyendu Dey - Databricks</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/27/</guid>
+      <description>Read about my interview experience at Databricks</description>
+    </item>
+    <item>
+      <title>Dibyendu Dey - Google</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/28/</guid>
       <description>Read about my interview experience at Google</description>
+    </item>
+    <item>
+      <title>Kandula Sravya - Sap Labs</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/41/</guid>
+      <description>Read about my interview experience at Sap Labs</description>
     </item>
     <item>
       <title>Priyanshu Kumar Jaiswal - AQR Capital</title>
@@ -39,6 +74,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/14/</guid>
       <description>Read about my interview experience at Piramal Housing Finance</description>
+    </item>
+    <item>
+      <title>Sameer Raj - Publicis Sapient</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/42/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/42/</guid>
+      <description>Read about my interview experience at Publicis Sapient</description>
     </item>
     <item>
       <title>Suma Shree Y - Bank Of America</title>

@@ -13,11 +13,32 @@
     <language>en</language>
     <atom:link href="https://tnp-iitg.github.io/bluebook/profiles/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Priyam Ketan Bhavsar - Akasa Air</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/36/</guid>
+      <description>Read about my interview experience at Akasa Air</description>
+    </item>
+    <item>
+      <title>Taraka Sriram Konda - Intel</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/22/</guid>
+      <description>Read about my interview experience at Intel</description>
+    </item>
+    <item>
       <title>Taraka Sriram Konda - Micron</title>
+      <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/23/</guid>
+      <description>Read about my interview experience at Micron</description>
+    </item>
+    <item>
+      <title>Taraka Sriram Konda - Texas Instruments</title>
       <link>https://tnp-iitg.github.io/bluebook/responses/bluebook/21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tnp-iitg.github.io/bluebook/responses/bluebook/21/</guid>
-      <description>Read about my interview experience at Micron</description>
+      <description>Read about my interview experience at Texas Instruments</description>
     </item>
   </channel>
 </rss>
